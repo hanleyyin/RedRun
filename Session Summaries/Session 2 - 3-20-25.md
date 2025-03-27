@@ -1,0 +1,12 @@
+- Discovered that cactus have arms and will defend themselves
+- Met tax collector: very rude
+- Traveled to Gulch: witnessed a duel, one person ran and the other whiffed
+- Sheriff walked out the wagon supply, distillery, and whorehouse
+- Talked to fence at Cartie's Original First Hand Store
+	- was told ambushes happen at the fork
+- Lost some gold at the Temple of dice
+- Caraxis's caravan and - [[NPC's#Dornathir| Dornathir]]  pulls into Gulch, starts talking to sheriff
+	- Dornathir turns away, Sheriff is drawing to shoot Dornathir
+- We start combat to attack sheriff to save Dornathir
+	- Cut ropes of the sheriff's wagon
+	- Pulls out mounted gun and fires on us and civilians

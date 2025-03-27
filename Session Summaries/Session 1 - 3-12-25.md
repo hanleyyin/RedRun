@@ -1,0 +1,4 @@
+- Traveled through portal to Redrun
+- Bought 3 axe beaks and one dire crab, Claudia
+- Saw Duergar woman Dornathir with 3 metallic goat: was told we couldn't afford it
+- Got quest from [[NPC's#Kaiser]]: kill Lord's Alliance's tax collector for Sunmaker, Kill Sheriff for 500gp

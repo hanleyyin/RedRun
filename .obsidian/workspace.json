@@ -1,0 +1,299 @@
+{
+  "main": {
+    "id": "c0a3eb29b57438c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fcbb14234f0cdd4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8117fca64709d00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pricing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pricing"
+            }
+          },
+          {
+            "id": "64a7d6f44261dc3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player Characters.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Player Characters"
+            }
+          },
+          {
+            "id": "a444a8a55ccd5e80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "02b8062447290a61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPC's.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NPC's"
+            }
+          },
+          {
+            "id": "1d34c192df047135",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Map.png"
+              },
+              "icon": "lucide-image",
+              "title": "Map"
+            }
+          },
+          {
+            "id": "1ea65b028c57556a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPC's.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NPC's"
+            }
+          },
+          {
+            "id": "ad57b5add8db269a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Summaries/Session 1 - 3-12-25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 1 - 3-12-25"
+            }
+          },
+          {
+            "id": "41e38ae7631f55c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Summaries/Session 3 - 3-26-2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 3 - 3-26-2025"
+            }
+          },
+          {
+            "id": "2f8c43fe0b60e3b0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "72e342bbd5484dc2",
+    "type": "split",
+    "children": [
+      {
+        "id": "371d5f407ba532a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22cfa6df4bfcbbf6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "683ffc41e493b132",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3d9efc768fad3f7a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 201.5
+  },
+  "right": {
+    "id": "f5a36c015ce9d222",
+    "type": "split",
+    "children": [
+      {
+        "id": "375322e369e683de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "020d9f79481d6992",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Player Characters.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Player Characters"
+            }
+          },
+          {
+            "id": "db738126a02ac435",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Player Characters.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Player Characters"
+            }
+          },
+          {
+            "id": "8bb5ec0e2f1a6d86",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d1d86a29aee73952",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Player Characters.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Player Characters"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2f8c43fe0b60e3b0",
+  "lastOpenFiles": [
+    "Session Summaries/Session 3 - 3-26-2025.md",
+    "Images/Map.png",
+    "Session Summaries/Session 2 - 3-20-25.md",
+    "NPC's.md",
+    "Places.md",
+    "Misc Documents.md",
+    "Session Summaries/Session 1 - 3-12-25.md",
+    "Untitled.md",
+    "Player Characters.md",
+    "Pricing.md",
+    "World.md",
+    "Images/Gulch.png",
+    "Quests/Quest 1 - Eliminate the tax collector.md",
+    "Quests",
+    "Quest",
+    "Session Summaries",
+    "Images",
+    "Untitled.canvas"
+  ]
+}
