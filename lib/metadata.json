@@ -1,6 +1,6 @@
 {
   "vaultName": "Dnd Notes",
-  "lastExport": 1744253395895,
+  "lastExport": 1746054040938,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -11,12 +11,15 @@
     "Images/DireCrab.png",
     "Images/Gulch.png",
     "Images/Map.png",
+    "Images/Mizzerville.png",
     "Quests/Quest 1 - Eliminate the tax collector.md",
     "Session Summaries/Session 1 - 03-12-25.md",
     "Session Summaries/Session 2 - 03-20-25.md",
     "Session Summaries/Session 3 - 03-26-2025.md",
     "Session Summaries/Session 4 - 04-02-2025.md",
     "Session Summaries/Session 5 - 04-09-2025.md",
+    "Session Summaries/Session 6 - 04-16-25.md",
+    "Session Summaries/Session 7 - 04-23-25.md",
     "index.md",
     "Misc Documents.md",
     "NPC's.md",
@@ -57,195 +60,213 @@
   ],
   "fileInfo": {
     "Images/Gulch.png": {
-      "modifiedTime": 1744253395895,
+      "modifiedTime": 1746054040938,
       "sourceSize": 258231,
       "exportedPath": "Images/Gulch.png",
       "dependencies": []
     },
     "Images/Map.png": {
-      "modifiedTime": 1744253395895,
+      "modifiedTime": 1746054040938,
       "sourceSize": 831787,
       "exportedPath": "Images/Map.png",
       "dependencies": []
     },
     "Quests/Quest 1 - Eliminate the tax collector.md": {
-      "modifiedTime": 1744253395895,
+      "modifiedTime": 1746054040938,
       "sourceSize": 318,
       "exportedPath": "Quests/Quest 1 - Eliminate the tax collector.html",
       "dependencies": []
     },
     "Misc Documents.md": {
-      "modifiedTime": 1744253395895,
+      "modifiedTime": 1746054040938,
       "sourceSize": 120,
       "exportedPath": "Misc Documents.html",
       "dependencies": []
     },
     "NPC's.md": {
-      "modifiedTime": 1744253395895,
-      "sourceSize": 460,
+      "modifiedTime": 1746054040938,
+      "sourceSize": 519,
       "exportedPath": "NPC's.html",
       "dependencies": []
     },
     "Places.md": {
-      "modifiedTime": 1744253395895,
-      "sourceSize": 486,
+      "modifiedTime": 1746054040938,
+      "sourceSize": 734,
       "exportedPath": "Places.html",
       "dependencies": []
     },
     "Player Characters.md": {
-      "modifiedTime": 1744253395895,
+      "modifiedTime": 1746054040938,
       "sourceSize": 251,
       "exportedPath": "Player Characters.html",
       "dependencies": []
     },
     "Pricing.md": {
-      "modifiedTime": 1744253395895,
+      "modifiedTime": 1746054040938,
       "sourceSize": 315,
       "exportedPath": "Pricing.html",
       "dependencies": []
     },
     "World.md": {
-      "modifiedTime": 1744253395895,
+      "modifiedTime": 1746054040938,
       "sourceSize": 902,
       "exportedPath": "World.html",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1744253395895,
+      "modifiedTime": 1746054040938,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1744253395895,
+      "modifiedTime": 1746054040938,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1744253395895,
+      "modifiedTime": 1746054040938,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1744253395895,
+      "modifiedTime": 1746054040938,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1744253395895,
+      "modifiedTime": 1746054040938,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1744253395895,
+      "modifiedTime": 1746054040938,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1744253395895,
+      "modifiedTime": 1746054040938,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1744253395895,
+      "modifiedTime": 1746054040938,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1744253395895,
+      "modifiedTime": 1746054040938,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1744253395895,
+      "modifiedTime": 1746054040938,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1744253395895,
+      "modifiedTime": 1746054040938,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1744253395895,
+      "modifiedTime": 1746054040938,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1744253395895,
+      "modifiedTime": 1746054040938,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1744253395895,
+      "modifiedTime": 1746054040938,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1744253395895,
+      "modifiedTime": 1746054040938,
       "sourceSize": 49,
       "exportedPath": "index.html",
       "dependencies": []
     },
     "Session Summaries/Session 4 - 04-02-2025.md": {
-      "modifiedTime": 1744253395895,
+      "modifiedTime": 1746054040938,
       "sourceSize": 1913,
       "exportedPath": "Session Summaries/Session 4 - 04-02-2025.html",
       "dependencies": []
     },
     "Session Summaries/Session 1 - 03-12-25.md": {
-      "modifiedTime": 1744253395895,
+      "modifiedTime": 1746054040938,
       "sourceSize": 275,
       "exportedPath": "Session Summaries/Session 1 - 03-12-25.html",
       "dependencies": []
     },
     "Session Summaries/Session 2 - 03-20-25.md": {
-      "modifiedTime": 1744253395895,
+      "modifiedTime": 1746054040938,
       "sourceSize": 679,
       "exportedPath": "Session Summaries/Session 2 - 03-20-25.html",
       "dependencies": []
     },
     "Session Summaries/Session 3 - 03-26-2025.md": {
-      "modifiedTime": 1744253395895,
+      "modifiedTime": 1746054040938,
       "sourceSize": 1372,
       "exportedPath": "Session Summaries/Session 3 - 03-26-2025.html",
       "dependencies": []
     },
     "Homebrew/Dire Crab.md": {
-      "modifiedTime": 1744253395895,
+      "modifiedTime": 1746054040938,
       "sourceSize": 17,
       "exportedPath": "Homebrew/Dire Crab.html",
       "dependencies": []
     },
     "Homebrew/Homebrewed Rules.md": {
-      "modifiedTime": 1744253395895,
-      "sourceSize": 105,
+      "modifiedTime": 1746054040938,
+      "sourceSize": 272,
       "exportedPath": "Homebrew/Homebrewed Rules.html",
       "dependencies": []
     },
     "Images/DireCrab.png": {
-      "modifiedTime": 1744253395895,
+      "modifiedTime": 1746054040938,
       "sourceSize": 227647,
       "exportedPath": "Images/DireCrab.png",
       "dependencies": []
     },
     "Session Summaries/Session 5 - 04-09-2025.md": {
-      "modifiedTime": 1744253395895,
+      "modifiedTime": 1746054040938,
       "sourceSize": 741,
       "exportedPath": "Session Summaries/Session 5 - 04-09-2025.html",
+      "dependencies": []
+    },
+    "Images/Mizzerville.png": {
+      "modifiedTime": 1746054040938,
+      "sourceSize": 69766,
+      "exportedPath": "Images/Mizzerville.png",
+      "dependencies": []
+    },
+    "Session Summaries/Session 6 - 04-16-25.md": {
+      "modifiedTime": 1746054040938,
+      "sourceSize": 259,
+      "exportedPath": "Session Summaries/Session 6 - 04-16-25.html",
+      "dependencies": []
+    },
+    "Session Summaries/Session 7 - 04-23-25.md": {
+      "modifiedTime": 1746054040938,
+      "sourceSize": 1520,
+      "exportedPath": "Session Summaries/Session 7 - 04-23-25.html",
       "dependencies": []
     }
   }
